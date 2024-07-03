@@ -120,7 +120,7 @@ You can ask questions and get support on:
 * [Product Page](https://software.intel.com/content/www/us/en/develop/tools/openvino-toolkit.html)
 * [Release Notes](https://docs.openvino.ai/2024/about-openvino/release-notes-openvino.html)
 * [OpenVINO Blog](https://blog.openvino.ai/)
-* [OpenVINO™ toolkit on Medium](https://medium.com/@openvino)
+* [OpenVINO™ toolkit on Medium](https://medium.com/@openvino) 
 
 
 ## License
